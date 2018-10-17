@@ -32,7 +32,7 @@ This assignment lets you practise the usage of structs, arrays and pointers to s
 
 5. Define a function `change_struct` which accepts the same parameters as `print_struct`. In the function body the values of the two parameters shall be changed to some different values.
 
-6. Call the function `change_struct` and then again call `print_struct` at the end of the `main` function. Which values are changed, which are not? Why?
+6. Call the function `change_struct` and then again call `print_struct` at the end of the `main` function. Which values are changed, which are not? Why? Describe this briefly in a comment right after the call of your function.
 
 7. Define a function `print_string` which accepts a string parameter `string_to_print` and prints the content of the string into the terminal.
 
@@ -42,7 +42,7 @@ This assignment lets you practise the usage of structs, arrays and pointers to s
 
 7. Call the function `change_string` again with the field `a_string` and the pointer to a newly created string `another_string` of length `16` which is given some initial value.
 
-7. Finally call `print_string` again with the two parameters you passed to `change_string` before. Check the results and explain, what you observe and why.
+7. Finally call `print_string` again with the two parameters you passed to `change_string` before. Check the results and explain, what you observe and why. Again describe your observations in a comment after the call of the functions.
 
 ## Hints
 - Take care to keep the work loop "Implement a little", "Test a little" to avoid the 100 lines of error mess.
