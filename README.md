@@ -10,6 +10,7 @@ This assignment lets you practise the usage of structs, arrays and pointers to s
 - terminal.
 
 ## Required Tasks
+1. Create a file called `pointer_fun_again.c`.
 1. Define a struct called `PlayStruct` with the following fields:
    - `int_value` of type integer
    - `double_value` of type double
